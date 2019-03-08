@@ -1,2 +1,2 @@
 # scripts
-Some of.
+Some.

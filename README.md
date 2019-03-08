@@ -1,2 +1,2 @@
 # scripts
-Some of the useful scrts.
+Some of the useful.

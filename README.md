@@ -1,3 +1,3 @@
 # scripts
 
-All the necessary scripts.
+All the necessary .
